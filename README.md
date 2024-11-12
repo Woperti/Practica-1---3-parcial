@@ -4,8 +4,7 @@ Crear el proyecto nivel intermedio
 
 1. Crear la pantalla de Inicio de Sesion
 2. Crear la pantalla de Registro de Sesion
-
-3. Crear las siguientes pantallas.
+3. Crear la pantalla Home.
 
 ![login](./imagesappInv/login.png)
 ![signup](./imagesappInv/signup.png)
