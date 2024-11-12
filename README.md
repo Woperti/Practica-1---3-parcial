@@ -1,4 +1,4 @@
-# Practica 1 - 3-parcial
+# Practica 1 - parcial 3
 
 Crear el proyecto nivel intermedio
 
