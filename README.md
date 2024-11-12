@@ -11,7 +11,7 @@ Crear el proyecto nivel intermedio
 ![signup](./imagesappInv/signup.png)
 ![home](./imagesappInv/home.png)
 
-** Anadir en la pantalla de Login(Iniciar) un TinyDB y otro para RegisterScreen.
+** Anadir en una pantalla de estas 3 un TinyDB, de preferencia registrarse.
 
 Colores
 Para el fondo del formulario, en hexadecimal: #F7F7F7
